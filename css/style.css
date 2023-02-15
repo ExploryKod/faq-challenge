@@ -1,0 +1,13 @@
+:root {
+    --bg-main: hsl(273, 75%, 66%);
+}
+
+body {
+    box-sizing: border-box;
+}
+
+main {
+    width: 100%;
+    max-width: 1440px;
+    background-color: var(--bg-main);
+}
